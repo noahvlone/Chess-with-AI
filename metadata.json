@@ -1,0 +1,5 @@
+{
+  "name": "Chess with AI",
+  "description": "A sleek and modern chess application where you can play against a powerful AI opponent powered by the Gemini API. Features a clean user interface, intuitive controls, and intelligent move generation.",
+  "requestFramePermissions": []
+}
